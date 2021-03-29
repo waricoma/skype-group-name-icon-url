@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "semistandard": "^16.0.0"
+  },
+  "scripts": {
+    "lint": "semistandard"
+  },
+  "semistandard": {
+    "globals": [ "$", "alert" ]
+  }
+}
